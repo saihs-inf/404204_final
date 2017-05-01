@@ -19,7 +19,7 @@ namespace _404204_2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("404204");
+            
            
         }
 
@@ -31,6 +31,13 @@ namespace _404204_2
         private void button2_Click(object sender, EventArgs e)
         {
             label1.Text = textBox1.Text;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            label1.Text = "";
+
         }
     }
 }
