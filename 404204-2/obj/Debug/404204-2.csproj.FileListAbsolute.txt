@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\404204-2\404204-2\bin\Debug\404204-2.exe.config
+C:\Users\user\Desktop\404204-2\404204-2\bin\Debug\404204-2.exe
+C:\Users\user\Desktop\404204-2\404204-2\bin\Debug\404204-2.pdb
+C:\Users\user\Desktop\404204-2\404204-2\obj\Debug\404204-2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\404204-2\404204-2\obj\Debug\_404204_2.Form1.resources
+C:\Users\user\Desktop\404204-2\404204-2\obj\Debug\_404204_2.Properties.Resources.resources
+C:\Users\user\Desktop\404204-2\404204-2\obj\Debug\404204-2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\404204-2\404204-2\obj\Debug\404204-2.exe
+C:\Users\user\Desktop\404204-2\404204-2\obj\Debug\404204-2.pdb
