@@ -27,5 +27,10 @@ namespace _404204_2
         {
             MessageBox.Show("404204");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = textBox1.Text;
+        }
     }
 }
