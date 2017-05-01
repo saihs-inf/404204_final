@@ -22,5 +22,10 @@ namespace _404204_2
             MessageBox.Show("404204");
            
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("404204");
+        }
     }
 }
